@@ -20,14 +20,12 @@ Windows 95’s 3D Maze screensaver remade in Rust.
 
 #### Debian / Ubuntu
 
-`̀``bash
+```bash
 sudo apt install libsdl2-dev
 ```
 
 #### Arch Linux
 
-`̀``bash
+```bash
 sudo pacman -S sdl2-compat
 ```
-
-
